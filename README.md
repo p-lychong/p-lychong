@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m p-lychong!
 
-<!--
-**p-lychong/p-lychong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm a passionate **Developer**, **Data Scientist**, **Software Engineer**, and **Web Developer** — equally at home working on the backend or frontend. I thrive on solving challenges and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Languages:** Python, JavaScript, HTML/CSS, C#, C++
+- **Frameworks & Libraries:** React
+- **Expertise:** Full-Stack Development, Data Science, Web Applications
+
+## 🔍 What I’m Up To
+- Exploring new technologies and best practices
+- Building robust, scalable applications
+- Combining creativity and code to deliver impact
+
+## ⚡ Fun Fact
+Beyond coding, I have a wide range of hobbies and passions that keep me inspired and creative!
+
+<!-- GitHub Stats Card (Optional: remove if you don't want stats displayed) -->
+![p-lychong's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-lychong&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting! 🚀  
+Feel free to check out my repositories and projects below.
