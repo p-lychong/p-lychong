@@ -8,7 +8,7 @@ I'm a passionate **Developer**, **Data Scientist**, **Software Engineer**, and *
 ## 🛠️ Skills & Technologies
 - **Languages:** Python, JavaScript, HTML/CSS, C#, C++
 - **Frameworks & Libraries:** React
-- **Expertise:** Full-Stack Development, Data Science, Web Applications
+
 
 ## 🔍 What I’m Up To
 - Exploring new technologies and best practices
